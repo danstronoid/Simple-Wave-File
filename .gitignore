@@ -1,0 +1,9 @@
+# ignore everything except source files
+# works for all CB projects
+
+**/bin
+**/obj
+**/test_files
+*.cbp
+*.depend
+*.wav
